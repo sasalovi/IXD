@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generiert durch Microsoft Visio, SVG Export Task05.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="23.8031in" height="34.0787in"
+		viewBox="0 0 1713.83 2453.67" xml:space="preserve" color-interpolation-filters="sRGB" class="st14">
+	<v:documentProperties v:langID="1031" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:prompt="" v:val="VT0(0):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#007f7f;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {fill:#ffffff;font-family:Calibri;font-size:1.00001em}
+		.st3 {font-size:1em}
+		.st4 {fill:#4271c6;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st5 {marker-end:url(#mrkr4-26);stroke:#5592c9;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st6 {fill:#5592c9;fill-opacity:1;stroke:#5592c9;stroke-opacity:1;stroke-width:0.16556291390728}
+		.st7 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st8 {fill:#41719d;font-family:Calibri;font-size:0.666664em}
+		.st9 {fill:#a5a5a5}
+		.st10 {stroke:#a5a5a5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st11 {marker-end:url(#mrkr4-507);stroke:#5592c9;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st12 {fill:#ffffff;stroke:#5b9bd5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st13 {fill:#5b9ad4;font-family:Calibri;font-size:1.00001em}
+		.st14 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-26" class="st6" v:arrowType="4" v:arrowSize="2" v:setback="12.08" refX="-12.08" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-6.04,-6.04) "/>
+		</marker>
+		<marker id="mrkr4-507" class="st6" v:arrowType="4" v:arrowSize="2" v:setback="0" refX="-0" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-6.04,-6.04) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>Zeichenblatt-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Verbinder" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(803.083,-2384.22)">
+			<title>Aktion</title>
+			<desc>System / Voice Assistant</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="20.59" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>System / Voice <tspan
+						x="34.76" dy="1.2em" class="st3">Assistant</tspan></text>		</g>
+		<g id="shape2-5" v:mID="2" v:groupContext="shape" transform="translate(930.642,-2384.22)">
+			<title>Aktion.2</title>
+			<desc>User Input</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="31.08" y="2438.87" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>User Input</text>		</g>
+		<g id="shape3-8" v:mID="3" v:groupContext="shape" transform="translate(757.417,-2223.86)">
+			<title>Aktion.3</title>
+			<desc>Hello Markus. This is a reminder to book a flight for your bu...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="99.4961" cy="2420.87" width="199" height="65.604"/>
+			<rect x="0" y="2388.07" width="198.992" height="65.604" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="14.68" y="2402.87" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Hello Markus. This is a reminder to <tspan
+						x="4.51" dy="1.2em" class="st3">book a flight for your business meeting </tspan><tspan x="11.04" dy="1.2em"
+						class="st3">on 22nd November in Barcelona. Do </tspan><tspan x="41.95" dy="1.2em" class="st3">you want to book now?</tspan></text>		</g>
+		<g id="shape6-14" v:mID="6" v:groupContext="shape" transform="translate(385.646,-2156.29)">
+			<title>Aktion.6</title>
+			<desc>Yes, sure.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2436.66" width="113.39" height="34.0157"/>
+			<rect x="0" y="2419.65" width="113.386" height="34.0157" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="33.49" y="2440.26" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes, sure.</text>		</g>
+		<g id="shape7-17" v:mID="7" v:groupContext="shape" transform="translate(689.252,-2153.5)">
+			<title>Aktion.7</title>
+			<desc>No, I already booked one.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="6.16" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>No, I already booked <tspan
+						x="45.88" dy="1.2em" class="st3">one.</tspan></text>		</g>
+		<g id="shape9-21" v:mID="9" v:groupContext="shape" v:layerMember="0" transform="translate(856.913,-2223.86)">
+			<title>Dynamischer Verbinder</title>
+			<path d="M0 2453.67 L0 2471.67 L-414.57 2471.67 L-414.57 2481.18" class="st5"/>
+		</g>
+		<g id="shape10-27" v:mID="10" v:groupContext="shape" v:layerMember="0" transform="translate(856.913,-2223.86)">
+			<title>Dynamischer Verbinder.10</title>
+			<path d="M0 2453.67 L0 2471.67 L-110.97 2471.67 L-110.97 2481.18" class="st5"/>
+		</g>
+		<g id="shape11-32" v:mID="11" v:groupContext="shape" transform="translate(1126.2,-2146.78)">
+			<title>Aktion.11</title>
+			<desc>No, please remind me tomorrow at same time.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2428.07" width="113.39" height="51.2039"/>
+			<rect x="0" y="2402.47" width="113.386" height="51.2039" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="12.17" y="2417.27" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>No, please remind <tspan
+						x="16.55" dy="1.2em" class="st3">me tomorrow at </tspan><tspan x="29.66" dy="1.2em" class="st3">same time.</tspan></text>		</g>
+		<g id="shape12-37" v:mID="12" v:groupContext="shape" transform="translate(901.85,-2154.9)">
+			<title>Aktion.12</title>
+			<desc>No.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2436.66" width="113.39" height="34.0157"/>
+			<rect x="0" y="2419.65" width="113.386" height="34.0157" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="48.14" y="2440.26" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>No.</text>		</g>
+		<g id="shape13-40" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(856.913,-2223.86)">
+			<title>Dynamischer Verbinder.13</title>
+			<path d="M0 2453.67 L0 2471.67 L101.63 2471.67 L101.63 2482.58" class="st5"/>
+		</g>
+		<g id="shape14-45" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(856.913,-2223.86)">
+			<title>Dynamischer Verbinder.14</title>
+			<path d="M0 2453.67 L0 2471.67 L325.98 2471.67 L325.98 2473.5" class="st5"/>
+		</g>
+		<g id="shape15-50" v:mID="15" v:groupContext="shape" transform="translate(901.85,-2071.41)">
+			<title>Aktion.15</title>
+			<desc>Do you want me to set a reminder?</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="10.1" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Do you want me to <tspan
+						x="18.35" dy="1.2em" class="st3">set a reminder?</tspan></text>		</g>
+		<g id="shape16-54" v:mID="16" v:groupContext="shape" transform="translate(901.85,-2001.83)">
+			<title>Aktion.16</title>
+			<desc>Yes, please. Remind me tomorrow.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="8.27" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes, please. Remind <tspan
+						x="21.28" dy="1.2em" class="st3">me tomorrow.</tspan></text>		</g>
+		<g id="shape17-58" v:mID="17" v:groupContext="shape" transform="translate(866.417,-1878.26)">
+			<title>Aktion.17</title>
+			<desc>OK. I am going to remind you tomorrow at the same time.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="92.126" cy="2435.27" width="184.26" height="36.8038"/>
+			<rect x="0" y="2416.87" width="184.252" height="36.8038" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="21.1" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>OK. I am going to remind you <tspan
+						x="23.22" dy="1.2em" class="st3">tomorrow at the same time.</tspan></text>		</g>
+		<g id="shape19-62" v:mID="19" v:groupContext="shape" v:layerMember="0" transform="translate(951.456,-2154.9)">
+			<title>Dynamischer Verbinder.19</title>
+			<path d="M7.09 2453.67 L7.09 2494.31" class="st5"/>
+		</g>
+		<g id="shape20-67" v:mID="20" v:groupContext="shape" v:layerMember="0" transform="translate(951.456,-2071.41)">
+			<title>Dynamischer Verbinder.20</title>
+			<path d="M7.09 2453.67 L7.09 2480.41" class="st5"/>
+		</g>
+		<g id="shape21-72" v:mID="21" v:groupContext="shape" v:layerMember="0" transform="translate(951.456,-2001.83)">
+			<title>Dynamischer Verbinder.21</title>
+			<path d="M7.09 2453.67 L7.09 2534.39" class="st5"/>
+		</g>
+		<g id="shape22-77" v:mID="22" v:groupContext="shape" transform="translate(689.252,-2071.41)">
+			<title>Aktion.22</title>
+			<desc>OK, do you want me to set a departure reminder?</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2428.07" width="113.39" height="51.2039"/>
+			<rect x="0" y="2402.47" width="113.386" height="51.2039" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="7.23" y="2417.27" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>OK, do you want me <tspan
+						x="12.74" dy="1.2em" class="st3">to set a departure </tspan><tspan x="31.28" dy="1.2em" class="st3">reminder?</tspan></text>		</g>
+		<g id="shape23-82" v:mID="23" v:groupContext="shape" v:layerMember="0" transform="translate(738.858,-2153.5)">
+			<title>Dynamischer Verbinder.23</title>
+			<path d="M7.09 2453.67 L7.09 2478.52" class="st5"/>
+		</g>
+		<g id="shape24-87" v:mID="24" v:groupContext="shape" transform="translate(689.252,-2005.44)">
+			<title>Aktion.24</title>
+			<desc>Yeah, sure.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2436.66" width="113.39" height="34.0157"/>
+			<rect x="0" y="2419.65" width="113.386" height="34.0157" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="29.81" y="2440.26" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Yeah, sure.</text>		</g>
+		<g id="shape25-90" v:mID="25" v:groupContext="shape" transform="translate(561.692,-2005.44)">
+			<title>Aktion.25</title>
+			<desc>No thanks.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2436.66" width="113.39" height="34.0157"/>
+			<rect x="0" y="2419.65" width="113.386" height="34.0157" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="30.52" y="2440.26" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>No thanks.</text>		</g>
+		<g id="shape26-93" v:mID="26" v:groupContext="shape" v:layerMember="0" transform="translate(738.858,-2071.41)">
+			<title>Dynamischer Verbinder.26</title>
+			<path d="M7.09 2453.67 L7.09 2479.59" class="st5"/>
+		</g>
+		<g id="shape27-98" v:mID="27" v:groupContext="shape" v:layerMember="0" transform="translate(745.944,-2071.41)">
+			<title>Dynamischer Verbinder.27</title>
+			<path d="M0 2453.67 L0 2471.67 L-127.56 2471.67 L-127.56 2479.59" class="st5"/>
+		</g>
+		<g id="shape28-103" v:mID="28" v:groupContext="shape" transform="translate(689.252,-1933.45)">
+			<title>Aktion.28</title>
+			<desc>OK. Could you please tell me the departure time and airport?</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2428.07" width="113.39" height="51.2039"/>
+			<rect x="0" y="2402.47" width="113.386" height="51.2039" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="5.22" y="2417.27" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>OK. Could you please <tspan
+						x="4.45" dy="1.2em" class="st3">tell me the departure </tspan><tspan x="14.09" dy="1.2em" class="st3">time and airport?</tspan></text>		</g>
+		<g id="shape30-108" v:mID="30" v:groupContext="shape" transform="translate(689.252,-1863.86)">
+			<title>Aktion.30</title>
+			<desc>21st November, at 11AM from Stuttgart Airport.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2428.07" width="113.39" height="51.2039"/>
+			<rect x="0" y="2402.47" width="113.386" height="51.2039" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="11.41" y="2417.27" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>21st November, at <tspan
+						x="5.68" dy="1.2em" class="st3">11AM from Stuttgart </tspan><tspan x="37.82" dy="1.2em" class="st3">Airport.</tspan></text>		</g>
+		<g id="shape31-113" v:mID="31" v:groupContext="shape" v:layerMember="0" transform="translate(738.858,-1933.45)">
+			<title>Dynamischer Verbinder.31</title>
+			<path d="M7.09 2453.67 L7.09 2466.01" class="st5"/>
+		</g>
+		<g id="shape32-118" v:mID="32" v:groupContext="shape" transform="translate(670.118,-1794.27)">
+			<title>Aktion.32</title>
+			<desc>Thanks. I created a notification for the 21st November 2020 a...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="75.8268" cy="2428.07" width="151.66" height="51.2039"/>
+			<rect x="0" y="2402.47" width="151.654" height="51.2039" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="30.04" y="2417.27" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Thanks. I created a <tspan
+						x="18.06" dy="1.2em" class="st3">notification for the 21st </tspan><tspan x="12.76" dy="1.2em" class="st3">November 2020 at 11AM.</tspan></text>		</g>
+		<g id="shape33-123" v:mID="33" v:groupContext="shape" transform="translate(689.252,-1681.51)">
+			<title>Aktion.33</title>
+			<desc>Sure.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2436.66" width="113.39" height="34.0157"/>
+			<rect x="0" y="2419.65" width="113.386" height="34.0157" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="44.19" y="2440.26" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Sure.</text>		</g>
+		<g id="shape34-126" v:mID="34" v:groupContext="shape" transform="translate(670.118,-1616.31)">
+			<title>Aktion.34</title>
+			<desc>OK, I just set a reminder for you.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="75.8268" cy="2435.27" width="151.66" height="36.8038"/>
+			<rect x="0" y="2416.87" width="151.654" height="36.8038" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="8.71" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>OK, I just set a reminder for <tspan
+						x="65.28" dy="1.2em" class="st3">you.</tspan></text>		</g>
+		<g id="shape35-130" v:mID="35" v:groupContext="shape" v:layerMember="0" transform="translate(738.858,-1794.27)">
+			<title>Dynamischer Verbinder.35</title>
+			<path d="M7.09 2453.67 L7.09 2466.01" class="st5"/>
+		</g>
+		<g id="shape36-135" v:mID="36" v:groupContext="shape" v:layerMember="0" transform="translate(738.858,-1681.51)">
+			<title>Dynamischer Verbinder.36</title>
+			<path d="M7.09 2453.67 L7.09 2476.02" class="st5"/>
+		</g>
+		<g id="shape1000-140" v:mID="1000" v:groupContext="shape" v:layerMember="0" transform="translate(738.858,-1863.86)">
+			<title>Dynamischer Verbinder.1000</title>
+			<path d="M7.09 2453.67 L7.09 2466.01" class="st5"/>
+		</g>
+		<g id="shape1001-145" v:mID="1001" v:groupContext="shape" transform="translate(385.646,-2071.41)">
+			<title>Aktion.1001</title>
+			<desc>OK. First of all, do you want to fly from Stuttgart Airport?</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2428.07" width="113.39" height="51.2039"/>
+			<rect x="0" y="2402.47" width="113.386" height="51.2039" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="13.64" y="2417.27" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>OK. First of all, do <tspan
+						x="6.93" dy="1.2em" class="st3">you want to fly from </tspan><tspan x="13.46" dy="1.2em" class="st3">Stuttgart Airport?</tspan></text>		</g>
+		<g id="shape1002-150" v:mID="1002" v:groupContext="shape" v:layerMember="0" transform="translate(435.252,-2156.29)">
+			<title>Dynamischer Verbinder.1002</title>
+			<desc>Check current location of the user</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="2470.51" width="120.19" height="17.6036"/>
+			<path d="M7.09 2453.67 L7.09 2481.3" class="st5"/>
+			<rect v:rectContext="textBkgnd" x="-48.0983" y="2465.71" width="110.37" height="9.59985" class="st7"/>
+			<text x="-48.1" y="2472.91" class="st8" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Check current location of the user</text>		</g>
+		<g id="shape1003-157" v:mID="1003" v:groupContext="shape" transform="translate(385.646,-2003.72)">
+			<title>Aktion.1003</title>
+			<desc>Yes.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2436.66" width="113.39" height="34.0157"/>
+			<rect x="0" y="2419.65" width="113.386" height="34.0157" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="46.92" y="2440.26" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes.</text>		</g>
+		<g id="shape1004-160" v:mID="1004" v:groupContext="shape" transform="translate(252.506,-2003.72)">
+			<title>Aktion.1004</title>
+			<desc>No, from Frankfurt.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2436.66" width="113.39" height="34.0157"/>
+			<rect x="0" y="2419.65" width="113.386" height="34.0157" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="9.36" y="2440.26" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>No, from Frankfurt.</text>		</g>
+		<g id="shape1005-163" v:mID="1005" v:groupContext="shape" v:layerMember="0" transform="translate(442.339,-2071.41)">
+			<title>Dynamischer Verbinder.1005</title>
+			<path d="M0 2453.67 L0 2471.67 L-133.14 2471.67 L-133.14 2481.3" class="st5"/>
+		</g>
+		<g id="shape1006-168" v:mID="1006" v:groupContext="shape" v:layerMember="0" transform="translate(435.252,-2071.41)">
+			<title>Dynamischer Verbinder.1006</title>
+			<path d="M7.09 2453.67 L7.09 2481.3" class="st5"/>
+		</g>
+		<g id="shape1007-173" v:mID="1007" v:groupContext="shape" transform="translate(385.856,-1808.67)">
+			<title>Aktion.1007</title>
+			<desc>Okay, when would you like to go?</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="11.48" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Okay, when would <tspan
+						x="21.18" dy="1.2em" class="st3">you like to go?</tspan></text>		</g>
+		<g id="shape1008-177" v:mID="1008" v:groupContext="shape" v:layerMember="0" transform="translate(435.358,-2003.72)">
+			<title>Dynamischer Verbinder.1008</title>
+			<path d="M6.98 2453.67 L6.98 2464.54 L7.19 2464.54 L7.19 2472.05" class="st5"/>
+		</g>
+		<g id="shape1009-182" v:mID="1009" v:groupContext="shape" transform="translate(385.856,-1616.31)">
+			<title>Aktion.1009</title>
+			<desc>For November 21st, would you like to book the 11 AM, 2 PM, or...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2406.47" width="113.39" height="94.4043"/>
+			<rect x="0" y="2359.27" width="113.386" height="94.4043" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="8.28" y="2374.07" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>For November 21st, <tspan
+						x="14.82" dy="1.2em" class="st3">would you like to </tspan><tspan x="11.69" dy="1.2em" class="st3">book the 11 AM, 2 </tspan><tspan
+						x="12.44" dy="1.2em" class="st3">PM, or 6 PM flight </tspan><tspan x="15.19" dy="1.2em" class="st3">from Stuttgart to </tspan><tspan
+						x="29.59" dy="1.2em" class="st3">Barcelona?</tspan></text>		</g>
+		<g id="shape1010-190" v:mID="1010" v:groupContext="shape" transform="translate(252.716,-1739.09)">
+			<title>Aktion.1010</title>
+			<desc>One day before my meeting.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="10.05" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>One day before my <tspan
+						x="35.05" dy="1.2em" class="st3">meeting.</tspan></text>		</g>
+		<g id="shape1011-194" v:mID="1011" v:groupContext="shape" v:layerMember="0" transform="translate(442.549,-1808.67)">
+			<title>Dynamischer Verbinder.1011</title>
+			<path d="M0 2453.67 L0 2471.67 L-133.14 2471.67 L-133.14 2480.41" class="st5"/>
+		</g>
+		<g id="shape1014-199" v:mID="1014" v:groupContext="shape" transform="translate(269.179,-1546.48)">
+			<title>Aktion.1014</title>
+			<desc>I&#39;d like to take the one at 11AM.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="12.89" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>I&#39;d like to take the <tspan
+						x="23.6" dy="1.2em" class="st3">one at 11AM.</tspan></text>		</g>
+		<g id="shape1015-203" v:mID="1015" v:groupContext="shape" v:layerMember="0" transform="translate(442.549,-1616.31)">
+			<title>Dynamischer Verbinder.1015</title>
+			<path d="M0 2453.67 L0 2471.67 L-116.68 2471.67 L-116.68 2480.66" class="st5"/>
+		</g>
+		<g id="shape1016-208" v:mID="1016" v:groupContext="shape" transform="translate(269.179,-1478.7)">
+			<title>Aktion.1016</title>
+			<desc>Sure, this Economy Class flight would cost 200 Euro.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2428.07" width="113.39" height="51.2039"/>
+			<rect x="0" y="2402.47" width="113.386" height="51.2039" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="10.15" y="2417.27" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Sure, this Economy <tspan
+						x="14.13" dy="1.2em" class="st3">Class flight would </tspan><tspan x="21.95" dy="1.2em" class="st3">cost 200 Euro.</tspan></text>		</g>
+		<g id="shape1017-213" v:mID="1017" v:groupContext="shape" v:layerMember="0" transform="translate(318.786,-1546.48)">
+			<title>Dynamischer Verbinder.1017</title>
+			<path d="M7.09 2453.67 L7.09 2464.21" class="st5"/>
+		</g>
+		<g id="shape1018-218" v:mID="1018" v:groupContext="shape" transform="translate(385.856,-1942.49)">
+			<title>Aktion.1018</title>
+			<desc>Great. Are you travelling alone?</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="21.14" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Great. Are you <tspan
+						x="16.22" dy="1.2em" class="st3">travelling alone?</tspan></text>		</g>
+		<g id="shape1020-222" v:mID="1020" v:groupContext="shape" v:layerMember="0" transform="translate(309.199,-2003.72)">
+			<title>Dynamischer Verbinder.1020</title>
+			<desc>Change departure location to Frankfurt Airport</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="16.9159" cy="2496.5" width="98.36" height="27.2035"/>
+			<path d="M0 2453.67 L0 2496.5 L70.62 2496.5" class="st5"/>
+			<rect v:rectContext="textBkgnd" x="-26.4509" y="2486.9" width="86.7335" height="19.1997" class="st7"/>
+			<text x="-26.45" y="2494.1" class="st8" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Change departure location <v:newlineChar/><tspan
+						x="-15.04" dy="1.2em" class="st3">to Frankfurt Airport</tspan></text>		</g>
+		<g id="shape1021-230" v:mID="1021" v:groupContext="shape" transform="translate(385.856,-1878.26)">
+			<title>Aktion.1021</title>
+			<desc>Uhm, yes. I am travelling alone.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="20.59" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Uhm, yes. I am <tspan
+						x="17.49" dy="1.2em" class="st3">travelling alone.</tspan></text>		</g>
+		<g id="shape1022-234" v:mID="1022" v:groupContext="shape" transform="translate(252.716,-1879.65)">
+			<title>Aktion.1022</title>
+			<desc>No, I am travelling with a friend.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="12.13" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>No, I am travelling <tspan
+						x="24.17" dy="1.2em" class="st3">with a friend.</tspan></text>		</g>
+		<g id="shape1023-238" v:mID="1023" v:groupContext="shape" v:layerMember="0" transform="translate(442.549,-1942.49)">
+			<title>Dynamischer Verbinder.1023</title>
+			<path d="M0 2453.67 L0 2471.67 L-133.14 2471.67 L-133.14 2473.66" class="st5"/>
+		</g>
+		<g id="shape1024-243" v:mID="1024" v:groupContext="shape" v:layerMember="0" transform="translate(435.463,-1942.49)">
+			<title>Dynamischer Verbinder.1024</title>
+			<path d="M7.09 2453.67 L7.09 2475.06" class="st5"/>
+		</g>
+		<g id="shape1025-248" v:mID="1025" v:groupContext="shape" v:layerMember="0" transform="translate(302.322,-1879.65)">
+			<title>Dynamischer Verbinder.1025</title>
+			<path d="M7.09 2453.67 L7.09 2481.81" class="st5"/>
+		</g>
+		<g id="shape1026-253" v:mID="1026" v:groupContext="shape" v:layerMember="0" transform="translate(435.463,-1878.26)">
+			<title>Dynamischer Verbinder.1026</title>
+			<path d="M7.09 2453.67 L7.09 2480.41" class="st5"/>
+		</g>
+		<g id="shape1027-258" v:mID="1027" v:groupContext="shape" v:layerMember="0" transform="translate(309.409,-1739.09)">
+			<title>Dynamischer Verbinder.1027</title>
+			<path d="M0 2453.67 L0 2471.67 L133.14 2471.67 L133.14 2476" class="st5"/>
+		</g>
+		<g id="shape1028-263" v:mID="1028" v:groupContext="shape" transform="translate(191.227,-1365.88)">
+			<title>Aktion.1028</title>
+			<desc>How much luggage can I take with me?</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="10.29" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>How much luggage <tspan
+						x="9.21" dy="1.2em" class="st3">can I take with me?</tspan></text>		</g>
+		<g id="shape1029-267" v:mID="1029" v:groupContext="shape" transform="translate(332.959,-1368.67)">
+			<title>Aktion.1029</title>
+			<desc>No.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2436.66" width="113.39" height="34.0157"/>
+			<rect x="0" y="2419.65" width="113.386" height="34.0157" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="48.14" y="2440.26" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>No.</text>		</g>
+		<g id="shape1032-270" v:mID="1032" v:groupContext="shape" transform="translate(385.856,-1739.09)">
+			<title>Aktion.1032</title>
+			<desc>On the 21st November.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="28.27" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>On the 21st <tspan
+						x="29.42" dy="1.2em" class="st3">November.</tspan></text>		</g>
+		<g id="shape1033-274" v:mID="1033" v:groupContext="shape" v:layerMember="0" transform="translate(435.463,-1808.67)">
+			<title>Dynamischer Verbinder.1033</title>
+			<path d="M7.09 2453.67 L7.09 2480.41" class="st5"/>
+		</g>
+		<g id="shape1034-279" v:mID="1034" v:groupContext="shape" v:layerMember="0" transform="translate(435.463,-1739.09)">
+			<title>Dynamischer Verbinder.1034</title>
+			<path d="M7.09 2453.67 L7.09 2476" class="st5"/>
+		</g>
+		<g id="shape1035-284" v:mID="1035" v:groupContext="shape" transform="translate(191.227,-1253.98)">
+			<title>Aktion.1035</title>
+			<desc>Only cabin luggage. Do you want me to register another bag fo...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2413.67" width="113.39" height="80.0041"/>
+			<rect x="0" y="2373.67" width="113.386" height="80.0041" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="9.29" y="2388.47" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Only cabin luggage. <v:newlineChar/><tspan
+						x="10.1" dy="1.2em" class="st3">Do you want me to </tspan><tspan x="6.99" dy="1.2em" class="st3">register another bag </tspan><tspan
+						x="16.3" dy="1.2em" class="st3">for additional 30 </tspan><tspan x="42.57" dy="1.2em" class="st3">Euro?</tspan></text>		</g>
+		<g id="shape1036-291" v:mID="1036" v:groupContext="shape" v:layerMember="0" transform="translate(240.833,-1365.88)">
+			<title>Dynamischer Verbinder.1036</title>
+			<path d="M7.09 2453.67 L7.09 2479.53" class="st5"/>
+		</g>
+		<g id="shape1037-296" v:mID="1037" v:groupContext="shape" transform="translate(65.6295,-1253.98)">
+			<title>Aktion.1037</title>
+			<desc>Yes, I would like that.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2436.66" width="113.39" height="34.0157"/>
+			<rect x="0" y="2419.65" width="113.386" height="34.0157" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="4.84" y="2440.26" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes, I would like that.</text>		</g>
+		<g id="shape1039-299" v:mID="1039" v:groupContext="shape" transform="translate(65.6295,-1144.37)">
+			<title>Aktion.1039</title>
+			<desc>Got it. I added the additional bag to the cart.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2428.07" width="113.39" height="51.2039"/>
+			<rect x="0" y="2402.47" width="113.386" height="51.2039" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="12.43" y="2417.27" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Got it. I added the <tspan
+						x="5.94" dy="1.2em" class="st3">additional bag to the </tspan><tspan x="45.67" dy="1.2em" class="st3">cart. </tspan> </text>		</g>
+		<g id="shape1040-304" v:mID="1040" v:groupContext="shape" transform="translate(332.959,-1210.78)">
+			<title>Aktion.1040</title>
+			<desc>Finally summarized, you have selected a Economy Class flight ...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2392.07" width="113.39" height="123.204"/>
+			<rect x="0" y="2330.46" width="113.386" height="123.204" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="8.27" y="2345.27" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Finally summarized, <tspan
+						x="8.62" dy="1.2em" class="st3">you have selected a </tspan><tspan x="6.81" dy="1.2em" class="st3">Economy Class flight </tspan><tspan
+						x="13.27" dy="1.2em" class="st3">from Stuttgart for </tspan><tspan x="9.64" dy="1.2em" class="st3">the 21st November </tspan><tspan
+						x="10.06" dy="1.2em" class="st3">2020 at 11AM with </tspan><tspan x="4.97" dy="1.2em" class="st3">one additional bag of </tspan><tspan
+						x="36.32" dy="1.2em" class="st3">luggage.</tspan></text>		</g>
+		<g id="shape1041-314" v:mID="1041" v:groupContext="shape" v:layerMember="0" transform="translate(382.565,-1368.67)">
+			<title>Dynamischer Verbinder.1041</title>
+			<path d="M7.09 2453.67 L7.09 2482.31" class="st5"/>
+		</g>
+		<g id="shape1042-319" v:mID="1042" v:groupContext="shape" transform="translate(191.227,-1064.98)">
+			<title>Aktion.1042</title>
+			<desc>Yes</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2436.66" width="113.39" height="34.0157"/>
+			<rect x="0" y="2419.65" width="113.386" height="34.0157" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="48.44" y="2440.26" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
+		<g id="shape1044-322" v:mID="1044" v:groupContext="shape" transform="translate(191.227,-966.756)">
+			<title>Aktion.1044</title>
+			<desc>To conclude, do you want to pay the 230 Euro with PayPal or M...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2420.87" width="113.39" height="65.604"/>
+			<rect x="0" y="2388.07" width="113.386" height="65.604" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="7.63" y="2402.87" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>To conclude, do you <tspan
+						x="7.76" dy="1.2em" class="st3">want to pay the 230 </tspan><tspan x="9.16" dy="1.2em" class="st3">Euro with PayPal or </tspan><tspan
+						x="25.16" dy="1.2em" class="st3">MasterCard?</tspan></text>		</g>
+		<g id="shape1045-328" v:mID="1045" v:groupContext="shape" transform="translate(45.7869,-897.732)">
+			<title>Aktion.1045</title>
+			<desc>With MasterCard.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2436.66" width="113.39" height="34.0157"/>
+			<rect x="0" y="2419.65" width="113.386" height="34.0157" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="13.19" y="2440.26" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>With MasterCard.</text>		</g>
+		<g id="shape1046-331" v:mID="1046" v:groupContext="shape" transform="translate(191.112,-897.732)">
+			<title>Aktion.1046</title>
+			<desc>With PayPal.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2436.66" width="113.39" height="34.0157"/>
+			<rect x="0" y="2419.65" width="113.386" height="34.0157" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="25.9" y="2440.26" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>With PayPal.</text>		</g>
+		<g id="shape1047-334" v:mID="1047" v:groupContext="shape" v:layerMember="0" transform="translate(247.92,-966.756)">
+			<title>Dynamischer Verbinder.1047</title>
+			<path d="M0 2453.67 L0 2471.67 L-145.44 2471.67 L-145.44 2482.64" class="st5"/>
+		</g>
+		<g id="shape1048-339" v:mID="1048" v:groupContext="shape" v:layerMember="0" transform="translate(254.949,-966.756)">
+			<title>Dynamischer Verbinder.1048</title>
+			<path d="M-7.03 2453.67 L-7.03 2471.67 L-7.14 2471.67 L-7.14 2482.64" class="st5"/>
+		</g>
+		<g id="shape1049-344" v:mID="1049" v:groupContext="shape" v:layerMember="0" transform="translate(240.833,-1064.98)">
+			<title>Dynamischer Verbinder.1049</title>
+			<path d="M7.09 2453.67 L7.09 2480.25" class="st5"/>
+		</g>
+		<g id="shape1050-349" v:mID="1050" v:groupContext="shape" transform="translate(269.179,-1425.32)">
+			<title>Aktion.1050</title>
+			<desc>Do you have any other inquiries?</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="16.27" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Do you have any <tspan
+						x="18.14" dy="1.2em" class="st3">other inquiries? </tspan> </text>		</g>
+		<g id="shape1051-353" v:mID="1051" v:groupContext="shape" v:layerMember="0" transform="translate(318.786,-1478.7)">
+			<title>Dynamischer Verbinder.1051</title>
+			<path d="M7.09 2453.67 L7.09 2464.21" class="st5"/>
+		</g>
+		<g id="shape1052-358" v:mID="1052" v:groupContext="shape" v:layerMember="0" transform="translate(325.872,-1425.32)">
+			<title>Dynamischer Verbinder.1052</title>
+			<path d="M0 2453.67 L0 2464.54 L-77.95 2464.54 L-77.95 2470.27" class="st5"/>
+		</g>
+		<g id="shape1053-363" v:mID="1053" v:groupContext="shape" v:layerMember="0" transform="translate(325.872,-1425.32)">
+			<title>Dynamischer Verbinder.1053</title>
+			<path d="M0 2453.67 L0 2464.54 L63.78 2464.54 L63.78 2470.27" class="st5"/>
+		</g>
+		<g id="shape1054-368" v:mID="1054" v:groupContext="shape" v:layerMember="0" transform="translate(65.6295,-1169.97)">
+			<title>Dynamischer Verbinder.1054</title>
+			<path d="M0 2453.67 L-36 2453.67 L-36 2179.92 L197.51 2179.92" class="st5"/>
+		</g>
+		<g id="shape1055-373" v:mID="1055" v:groupContext="shape" transform="translate(122.322,-798.112)">
+			<title>Aktion.1055</title>
+			<desc>Sure. This flight was successfully booked. Do you want me to ...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2413.67" width="113.39" height="80.0041"/>
+			<rect x="0" y="2373.67" width="113.386" height="80.0041" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="8.24" y="2388.47" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Sure. This flight was <tspan
+						x="6.77" dy="1.2em" class="st3">successfully booked. <v:newlineChar/></tspan><tspan x="10.1" dy="1.2em"
+						class="st3">Do you want me to </tspan><tspan x="10.48" dy="1.2em" class="st3">set a reminder one </tspan><tspan
+						x="28.78" dy="1.2em" class="st3">day ahead? </tspan> </text>		</g>
+		<g id="shape1060-380" v:mID="1060" v:groupContext="shape" transform="translate(728.937,-1552.54)">
+			<title>Abschlussknoten.1060</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M30.61 2436.66 A13.6063 13.6063 -180 1 0 3.4 2436.66 A13.6063 13.6063 -180 1 0 30.61 2436.66 Z" class="st9"/>
+			<path d="M34.02 2436.66 A17.0079 17.0079 -180 1 0 0 2436.66 A17.0079 17.0079 -180 1 0 34.02 2436.66" class="st10"/>
+			<path d="M30.61 2436.66 A13.6063 13.6063 -180 1 0 3.4 2436.66 A13.6063 13.6063 -180 1 0 30.61 2436.66" class="st10"/>
+		</g>
+		<g id="shape1061-384" v:mID="1061" v:groupContext="shape" v:layerMember="0" transform="translate(738.858,-1616.31)">
+			<title>Dynamischer Verbinder.1061</title>
+			<path d="M7.09 2453.67 L7.09 2477.39" class="st5"/>
+		</g>
+		<g id="shape1062-389" v:mID="1062" v:groupContext="shape" transform="translate(941.535,-1802.87)">
+			<title>Abschlussknoten.1062</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M30.61 2436.66 A13.6063 13.6063 -180 1 0 3.4 2436.66 A13.6063 13.6063 -180 1 0 30.61 2436.66 Z" class="st9"/>
+			<path d="M34.02 2436.66 A17.0079 17.0079 -180 1 0 0 2436.66 A17.0079 17.0079 -180 1 0 34.02 2436.66" class="st10"/>
+			<path d="M30.61 2436.66 A13.6063 13.6063 -180 1 0 3.4 2436.66 A13.6063 13.6063 -180 1 0 30.61 2436.66" class="st10"/>
+		</g>
+		<g id="shape1063-393" v:mID="1063" v:groupContext="shape" v:layerMember="0" transform="translate(951.456,-1878.26)">
+			<title>Dynamischer Verbinder.1063</title>
+			<path d="M7.09 2453.67 L7.09 2489.01" class="st5"/>
+		</g>
+		<g id="shape1064-398" v:mID="1064" v:groupContext="shape" v:layerMember="0" transform="translate(115.236,-1253.98)">
+			<title>Dynamischer Verbinder.1064</title>
+			<path d="M7.09 2453.67 L7.09 2506.03" class="st5"/>
+		</g>
+		<g id="shape1065-403" v:mID="1065" v:groupContext="shape" transform="translate(332.959,-1062.19)">
+			<title>Aktion.1065</title>
+			<desc>Could you please repeat that?</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="15.18" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Could you please <tspan
+						x="26.41" dy="1.2em" class="st3">repeat that?</tspan></text>		</g>
+		<g id="shape1067-407" v:mID="1067" v:groupContext="shape" transform="translate(490.826,-1064.98)">
+			<title>Aktion.1067</title>
+			<desc>No!</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2436.66" width="113.39" height="34.0157"/>
+			<rect x="0" y="2419.65" width="113.386" height="34.0157" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="47.7" y="2440.26" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>No!  </text>		</g>
+		<g id="shape1069-410" v:mID="1069" v:groupContext="shape" v:layerMember="0" transform="translate(382.565,-1210.78)">
+			<title>Dynamischer Verbinder.1069</title>
+			<path d="M7.09 2453.67 L7.09 2477.23" class="st5"/>
+		</g>
+		<g id="shape1070-415" v:mID="1070" v:groupContext="shape" v:layerMember="0" transform="translate(439.258,-1080.59)">
+			<title>Dynamischer Verbinder.1070</title>
+			<path d="M7.09 2453.67 L43.09 2453.67 L43.09 2261.88 L13.13 2261.88" class="st5"/>
+		</g>
+		<g id="shape1072-420" v:mID="1072" v:groupContext="shape" transform="translate(1029.73,-2003.22)">
+			<title>Aktion.1072</title>
+			<desc>No.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2436.66" width="113.39" height="34.0157"/>
+			<rect x="0" y="2419.65" width="113.386" height="34.0157" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="48.14" y="2440.26" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>No.</text>		</g>
+		<g id="shape1073-423" v:mID="1073" v:groupContext="shape" v:layerMember="0" transform="translate(1182.9,-2146.78)">
+			<title>Dynamischer Verbinder.1073</title>
+			<path d="M0 2453.67 L0 2703.79 L-126.19 2703.79" class="st5"/>
+		</g>
+		<g id="shape1074-428" v:mID="1074" v:groupContext="shape" v:layerMember="0" transform="translate(958.543,-2071.41)">
+			<title>Dynamischer Verbinder.1074</title>
+			<path d="M0 2453.67 L0 2471.67 L127.88 2471.67 L127.88 2481.81" class="st5"/>
+		</g>
+		<g id="shape1075-433" v:mID="1075" v:groupContext="shape" transform="translate(1069.42,-1942.04)">
+			<title>Abschlussknoten.1075</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M30.61 2436.66 A13.6063 13.6063 -180 1 0 3.4 2436.66 A13.6063 13.6063 -180 1 0 30.61 2436.66 Z" class="st9"/>
+			<path d="M34.02 2436.66 A17.0079 17.0079 -180 1 0 0 2436.66 A17.0079 17.0079 -180 1 0 34.02 2436.66" class="st10"/>
+			<path d="M30.61 2436.66 A13.6063 13.6063 -180 1 0 3.4 2436.66 A13.6063 13.6063 -180 1 0 30.61 2436.66" class="st10"/>
+		</g>
+		<g id="shape1076-437" v:mID="1076" v:groupContext="shape" v:layerMember="0" transform="translate(1079.34,-2003.22)">
+			<title>Dynamischer Verbinder.1076</title>
+			<path d="M7.09 2453.67 L7.09 2474.79" class="st5"/>
+		</g>
+		<g id="shape1078-442" v:mID="1078" v:groupContext="shape" transform="translate(601.378,-1941.11)">
+			<title>Abschlussknoten.1078</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M30.61 2436.66 A13.6063 13.6063 -180 1 0 3.4 2436.66 A13.6063 13.6063 -180 1 0 30.61 2436.66 Z" class="st9"/>
+			<path d="M34.02 2436.66 A17.0079 17.0079 -180 1 0 0 2436.66 A17.0079 17.0079 -180 1 0 34.02 2436.66" class="st10"/>
+			<path d="M30.61 2436.66 A13.6063 13.6063 -180 1 0 3.4 2436.66 A13.6063 13.6063 -180 1 0 30.61 2436.66" class="st10"/>
+		</g>
+		<g id="shape1079-446" v:mID="1079" v:groupContext="shape" v:layerMember="0" transform="translate(611.299,-2005.44)">
+			<title>Dynamischer Verbinder.1079</title>
+			<path d="M7.09 2453.67 L7.09 2477.94" class="st5"/>
+		</g>
+		<g id="shape1080-451" v:mID="1080" v:groupContext="shape" v:layerMember="0" transform="translate(753.031,-2005.44)">
+			<title>Dynamischer Verbinder.1080</title>
+			<path d="M-7.09 2453.67 L-7.09 2468.42" class="st5"/>
+		</g>
+		<g id="shape1084-456" v:mID="1084" v:groupContext="shape" transform="translate(485.799,-1551.14)">
+			<title>Aktion.1084</title>
+			<desc>Could you repeat that please?</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="14.8" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Could you repeat <tspan
+						x="26.79" dy="1.2em" class="st3">that please?</tspan></text>		</g>
+		<g id="shape1085-460" v:mID="1085" v:groupContext="shape" transform="translate(122.322,-656.834)">
+			<title>Aktion.1085</title>
+			<desc>Alright, have a good journey!</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="7.92" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Alright, have a good <tspan
+						x="36.04" dy="1.2em" class="st3">journey!</tspan></text>		</g>
+		<g id="shape1086-464" v:mID="1086" v:groupContext="shape" transform="translate(670.118,-1739.09)">
+			<title>Aktion.1086</title>
+			<desc>Do you want me to set a reminder one day ahead?</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="75.8268" cy="2435.27" width="151.66" height="36.8038"/>
+			<rect x="0" y="2416.87" width="151.654" height="36.8038" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="16.31" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Do you want me to set a <tspan
+						x="13.27" dy="1.2em" class="st3">reminder one day ahead?</tspan></text>		</g>
+		<g id="shape1087-468" v:mID="1087" v:groupContext="shape" v:layerMember="0" transform="translate(738.858,-1739.09)">
+			<title>Dynamischer Verbinder.1087</title>
+			<path d="M7.09 2453.67 L7.09 2471.19" class="st5"/>
+		</g>
+		<g id="shape1088-473" v:mID="1088" v:groupContext="shape" transform="translate(930.196,-1681.51)">
+			<title>Aktion.1088</title>
+			<desc>No thanks.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2436.66" width="113.39" height="34.0157"/>
+			<rect x="0" y="2419.65" width="113.386" height="34.0157" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="30.52" y="2440.26" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>No thanks.</text>		</g>
+		<g id="shape1089-476" v:mID="1089" v:groupContext="shape" v:layerMember="0" transform="translate(738.858,-1739.09)">
+			<title>Dynamischer Verbinder.1089</title>
+			<path d="M7.09 2453.67 L7.09 2471.19" class="st5"/>
+		</g>
+		<g id="shape1090-481" v:mID="1090" v:groupContext="shape" transform="translate(969.881,-1552.54)">
+			<title>Abschlussknoten.1090</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M30.61 2436.66 A13.6063 13.6063 -180 1 0 3.4 2436.66 A13.6063 13.6063 -180 1 0 30.61 2436.66 Z" class="st9"/>
+			<path d="M34.02 2436.66 A17.0079 17.0079 -180 1 0 0 2436.66 A17.0079 17.0079 -180 1 0 34.02 2436.66" class="st10"/>
+			<path d="M30.61 2436.66 A13.6063 13.6063 -180 1 0 3.4 2436.66 A13.6063 13.6063 -180 1 0 30.61 2436.66" class="st10"/>
+		</g>
+		<g id="shape1091-485" v:mID="1091" v:groupContext="shape" v:layerMember="0" transform="translate(979.803,-1681.51)">
+			<title>Dynamischer Verbinder.1091</title>
+			<path d="M7.09 2453.67 L7.09 2542.59" class="st5"/>
+		</g>
+		<g id="shape1092-490" v:mID="1092" v:groupContext="shape" transform="translate(252.716,-1808.67)">
+			<title>Aktion.1092</title>
+			<desc>OK. I added another person.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="7.76" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>OK. I added another <tspan
+						x="38.29" dy="1.2em" class="st3">person.</tspan></text>		</g>
+		<g id="shape1093-494" v:mID="1093" v:groupContext="shape" v:layerMember="0" transform="translate(366.102,-1819.99)">
+			<title>Dynamischer Verbinder.1093</title>
+			<path d="M0 2446.58 L13.71 2446.58" class="st5"/>
+		</g>
+		<g id="shape1096-499" v:mID="1096" v:groupContext="shape" transform="translate(65.6295,-1299.97)">
+			<title>Aktion.1096</title>
+			<desc>No.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2436.66" width="113.39" height="34.0157"/>
+			<rect x="0" y="2419.65" width="113.386" height="34.0157" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="48.14" y="2440.26" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>No.</text>		</g>
+		<g id="shape1097-502" v:mID="1097" v:groupContext="shape" v:layerMember="0" transform="translate(192.208,-1293.98)">
+			<title>Dynamischer Verbinder.1097</title>
+			<path d="M-0.98 2453.67 L-9.98 2453.67 L-9.98 2430.68 L-13.19 2430.68" class="st11"/>
+		</g>
+		<g id="shape1098-508" v:mID="1098" v:groupContext="shape" v:layerMember="0" transform="translate(192.208,-1293.98)">
+			<title>Dynamischer Verbinder.1098</title>
+			<path d="M-0.98 2453.67 L-9.98 2453.67 L-9.98 2476.66 L-13.19 2476.66" class="st11"/>
+		</g>
+		<g id="shape1099-513" v:mID="1099" v:groupContext="shape" v:layerMember="0" transform="translate(122.322,-1333.98)">
+			<title>Dynamischer Verbinder.1099</title>
+			<path d="M0 2453.67 L0 2343.93 L140.82 2343.93" class="st5"/>
+		</g>
+		<g id="shape1100-518" v:mID="1100" v:groupContext="shape" transform="translate(332.959,-1144.37)">
+			<title>Aktion.1100</title>
+			<desc>Do you confirm this order?</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="8.9" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Do you confirm this <tspan
+						x="40.43" dy="1.2em" class="st3">order?</tspan></text>		</g>
+		<g id="shape1105-522" v:mID="1105" v:groupContext="shape" v:layerMember="0" transform="translate(382.565,-1144.37)">
+			<title>Dynamischer Verbinder.1105</title>
+			<path d="M7.09 2453.67 L7.09 2493.01" class="st5"/>
+		</g>
+		<g id="shape1107-527" v:mID="1107" v:groupContext="shape" v:layerMember="0" transform="translate(389.652,-1144.37)">
+			<title>Dynamischer Verbinder.1107</title>
+			<path d="M0 2453.67 L0 2489.67 L-141.73 2489.67 L-141.73 2493.01" class="st5"/>
+		</g>
+		<g id="shape1108-532" v:mID="1108" v:groupContext="shape" v:layerMember="0" transform="translate(389.652,-1144.37)">
+			<title>Dynamischer Verbinder.1108</title>
+			<path d="M0 2453.67 L0 2489.67 L90.33 2489.67 A2.3622 2.3622 0 0 1 95.06 2489.67 L157.87 2489.67 L157.87 2493.01"
+					class="st5"/>
+		</g>
+		<g id="shape1109-537" v:mID="1109" v:groupContext="shape" v:layerMember="0" transform="translate(604.212,-1081.98)">
+			<title>Dynamischer Verbinder.1109</title>
+			<path d="M0 2453.67 L36 2453.67 L36 2091.93 L-215.61 2091.93" class="st5"/>
+		</g>
+		<g id="shape1110-542" v:mID="1110" v:groupContext="shape" v:layerMember="0" transform="translate(102.48,-897.732)">
+			<title>Dynamischer Verbinder.1110</title>
+			<path d="M0 2453.67 L0 2513.29 L13.8 2513.29" class="st5"/>
+		</g>
+		<g id="shape1111-547" v:mID="1111" v:groupContext="shape" v:layerMember="0" transform="translate(248.843,-897.732)">
+			<title>Dynamischer Verbinder.1111</title>
+			<path d="M-1.04 2453.67 L-1.04 2513.29 L-7.1 2513.29" class="st5"/>
+		</g>
+		<g id="shape1112-552" v:mID="1112" v:groupContext="shape" transform="translate(48.6216,-727.654)">
+			<title>Aktion.1112</title>
+			<desc>Sure.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2436.66" width="113.39" height="34.0157"/>
+			<rect x="0" y="2419.65" width="113.386" height="34.0157" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="44.19" y="2440.26" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Sure.</text>		</g>
+		<g id="shape1113-555" v:mID="1113" v:groupContext="shape" transform="translate(196.023,-727.654)">
+			<title>Aktion.1113</title>
+			<desc>No thanks.</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2436.66" width="113.39" height="34.0157"/>
+			<rect x="0" y="2419.65" width="113.386" height="34.0157" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="30.52" y="2440.26" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>No thanks.</text>		</g>
+		<g id="shape1114-558" v:mID="1114" v:groupContext="shape" v:layerMember="0" transform="translate(179.015,-798.112)">
+			<title>Dynamischer Verbinder.1114</title>
+			<path d="M0 2453.67 L0 2471.67 L-73.7 2471.67 L-73.7 2484.07" class="st5"/>
+		</g>
+		<g id="shape1115-563" v:mID="1115" v:groupContext="shape" v:layerMember="0" transform="translate(179.015,-798.112)">
+			<title>Dynamischer Verbinder.1115</title>
+			<path d="M0 2453.67 L0 2471.67 L73.7 2471.67 L73.7 2484.07" class="st5"/>
+		</g>
+		<g id="shape1116-568" v:mID="1116" v:groupContext="shape" v:layerMember="0" transform="translate(105.315,-727.654)">
+			<title>Dynamischer Verbinder.1116</title>
+			<path d="M0 2453.67 L0 2471.67 L73.7 2471.67 L73.7 2481.65" class="st5"/>
+		</g>
+		<g id="shape1117-573" v:mID="1117" v:groupContext="shape" v:layerMember="0" transform="translate(252.716,-727.654)">
+			<title>Dynamischer Verbinder.1117</title>
+			<path d="M0 2453.67 L0 2471.67 L-73.7 2471.67 L-73.7 2481.65" class="st5"/>
+		</g>
+		<g id="shape1118-578" v:mID="1118" v:groupContext="shape" transform="translate(162.007,-607.181)">
+			<title>Abschlussknoten.1118</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M30.61 2436.66 A13.6063 13.6063 -180 1 0 3.4 2436.66 A13.6063 13.6063 -180 1 0 30.61 2436.66 Z" class="st9"/>
+			<path d="M34.02 2436.66 A17.0079 17.0079 -180 1 0 0 2436.66 A17.0079 17.0079 -180 1 0 34.02 2436.66" class="st10"/>
+			<path d="M30.61 2436.66 A13.6063 13.6063 -180 1 0 3.4 2436.66 A13.6063 13.6063 -180 1 0 30.61 2436.66" class="st10"/>
+		</g>
+		<g id="shape1119-582" v:mID="1119" v:groupContext="shape" v:layerMember="0" transform="translate(171.929,-656.834)">
+			<title>Dynamischer Verbinder.1119</title>
+			<path d="M7.09 2453.67 L7.09 2463.27" class="st5"/>
+		</g>
+		<g id="shape1120-587" v:mID="1120" v:groupContext="shape" transform="translate(340.59,-897.732)">
+			<title>Aktion.1120</title>
+			<desc>Could you please repeat that?</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st4"/>
+			<text x="15.18" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Could you please <tspan
+						x="26.41" dy="1.2em" class="st3">repeat that?</tspan></text>		</g>
+		<g id="shape1121-591" v:mID="1121" v:groupContext="shape" v:layerMember="0" transform="translate(247.92,-966.756)">
+			<title>Dynamischer Verbinder.1121</title>
+			<path d="M0 2453.67 L0 2471.67 L149.36 2471.67 L149.36 2479.85" class="st5"/>
+		</g>
+		<g id="shape1122-596" v:mID="1122" v:groupContext="shape" v:layerMember="0" transform="translate(453.976,-916.134)">
+			<title>Dynamischer Verbinder.1122</title>
+			<path d="M0 2453.67 L24.66 2453.67 L24.66 2370.25 L-143.32 2370.25" class="st5"/>
+		</g>
+		<g id="shape1123-601" v:mID="1123" v:groupContext="shape" v:layerMember="0" transform="translate(442.549,-1616.31)">
+			<title>Dynamischer Verbinder.1123</title>
+			<path d="M0 2453.67 L0 2471.67 L99.94 2471.67 L99.94 2476" class="st5"/>
+		</g>
+		<g id="shape1124-606" v:mID="1124" v:groupContext="shape" v:layerMember="0" transform="translate(599.184,-1569.54)">
+			<title>Dynamischer Verbinder.1124</title>
+			<path d="M0 2453.67 L7.83 2453.67 L7.83 2359.7 L-93.9 2359.7" class="st5"/>
+		</g>
+		<g id="shape1125-611" v:mID="1125" v:groupContext="shape" v:layerMember="0" transform="translate(745.944,-1708.44)">
+			<title>Dynamischer Verbinder.1125</title>
+			<path d="M0 2446.58 L0 2434.41 L240.94 2434.41 L240.94 2440.54" class="st5"/>
+		</g>
+		<g id="shape1126-616" v:mID="1126" v:groupContext="shape" v:layerMember="0" transform="translate(901.85,-2089.81)">
+			<title>Dynamischer Verbinder.1126</title>
+			<path d="M0 2453.67 L-36 2453.67 L-36 2371.58 L-93.17 2371.58" class="st5"/>
+		</g>
+		<g id="shape1127-621" v:mID="1127" v:groupContext="shape" transform="translate(630.142,-2384.22)">
+			<title>Aktion.1127</title>
+			<desc>Task05 | Markus Sasalovici</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="79.3838" cy="2435.27" width="158.77" height="36.8038"/>
+			<rect x="0" y="2416.87" width="158.768" height="36.8038" rx="8.50394" ry="8.50394" class="st12"/>
+			<text x="13.88" y="2438.87" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Task05 | Markus Sasalovici</text>		</g>
+	</g>
+</svg>
