@@ -1,0 +1,37 @@
+h1, h3, p {
+    color: #414141;
+    text-align: center;
+}
+
+h3 {
+    padding-top: 20px;
+}
+
+button {
+    border-radius: 4px;
+    font-size: 16px;
+    color: white;
+    border: none;
+    background-color: #4CAF50;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 32px;
+    cursor: pointer;
+}
+
+button:hover {
+    box-shadow: 1px 2px #888888;
+}
+
+#mainContainer {
+    margin: auto;
+    width: 50%;
+    border: 3px solid #4CAF50;
+    padding: 10px;
+}
+
+#buttonContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
