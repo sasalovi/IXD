@@ -398,7 +398,7 @@ function AddPersons() {
         },
         onMatch: (i, wildcard) => {
             var action;
-            personCount = parseInt(wildcard) + 1;
+            personCount = parseInt(wildcard);
             console.log(personCount);
 
             if (i == 0 || i == 1 || i == 2 || i == 3) {
@@ -503,7 +503,7 @@ function ChooseDepartureTime() {
     artyom.newPrompt({
         question: "For" + monthOfDeparture + dayOfDeparture + ", would you like to book the 11 AM, 2 PM, or 6 PM flight from" + airport + "to Barcelona?",
         smart: false,
-        options: ["11am", "I would like to take the one at 11am", "2pm", "I would like to take the one at 2pm", "6pm","I would like to take the one at 6pm", "could you please repeat that", "please repeat"],
+        options: ["11 a.m.", "I would like to take the one at 11 a.m.", "2 p.m.", "I would like to take the one at 2 p.m.", "6 p.m.","I would like to take the one at 6 p.m.", "could you please repeat that", "please repeat"],
         beforePrompt: () => {
             console.log("Before ask");
         },
