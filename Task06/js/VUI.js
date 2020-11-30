@@ -1,13 +1,12 @@
 var artyom = new Artyom();
-var sessionStarted = new Boolean(true);
+var sessionStarted = new Boolean(false);
 var airport = new String();
 var personCount = new Int16Array();
 var dayOfDeparture = new Int16Array();
 var monthOfDeparture = new String();
 var timeOfDeparture = new String();
-var additionalLuggage = new Boolean(false); //Check if false is working
+var additionalLuggage = new Boolean(false);
 var paymentMethod = new String();
-
 var dayOfMeeting = new Int16Array();
 var monthOfMeeting = new String();
 
@@ -34,9 +33,9 @@ window.addEventListener("load", function () {
 
 
 function StartVUI() {
-    if (sessionStarted) {
+    if (sessionStarted == false) {
         IntroPrompt();
-        sessionStarted = false; //Make sure that the session cant be restartet several times in a row
+        sessionStarted = true; //Make sure that the session cant be restartet several times in a row
     }
 }
 
@@ -58,7 +57,7 @@ function IntroPrompt() {
         onMatch: (i) => {
             var action;
 
-            if (i == 0 || i == 1) { //Answer Yes OR Yes please
+            if (i == 0 || i == 1) { //Answer: Yes OR Yes please
                 action = () => {
                     
                     BookingAirport();
@@ -124,7 +123,7 @@ function DepartureReminder1() {
 
 function DepartureReminderAirport() {
     artyom.newPrompt({
-        question: "OK. From which airport do you take off?", //Text angepasst
+        question: "OK. From which airport do you take off?",
         smart: true,
         options: ["From *"],
         beforePrompt: () => {
@@ -154,7 +153,7 @@ function DepartureReminderAirport() {
 
 function DepartureReminderDate() {
     artyom.newPrompt({
-        question: "Got it. Now, could you please tell me the date of your departure?", //Text angepasst
+        question: "Got it. Now, could you please tell me the date of your departure?",
         smart: true,
         options: ["on *", "on the *", "the *"],
         beforePrompt: () => {
@@ -195,9 +194,9 @@ function DepartureReminderDate() {
 
 function DepartureReminderTime() {
     artyom.newPrompt({
-        question: "Alright. Now please tell me the time of your departure.", //Text angepasst
+        question: "Alright. Now please tell me the time of your departure.",
         smart: true,
-        options: ["*", "at *"],
+        options: ["*", "at *", "the departure is at *"],
         beforePrompt: () => {
             console.log("Before ask");
         },
@@ -206,12 +205,12 @@ function DepartureReminderTime() {
         },
         onEndPrompt: () => {
             console.log("The prompt has been executed succesfully");
-            document.getElementById("answerTextbox").textContent = "'...' / 'At ...'";
+            document.getElementById("answerTextbox").textContent = "'...' / 'At ...' / 'The departure is at ...'";
         },
         onMatch: (i, wildcard) => {
             var action;
 
-            if (i == 0 || i == 1) {
+            if (i == 0 || i == 1 || i == 2) {
                 action = () => {
                         var regex = /\d+/g;
                         var matches = wildcard.match(regex);
@@ -268,9 +267,9 @@ function RemindMeOneDayAhead() {
 
 function RemindMeTomorrow() {
     artyom.newPrompt({
-        question: "Do you want me to set a reminder for tomorrow?", //Text angepasst
+        question: "Do you want me to set a reminder for tomorrow?",
         smart: false,
-        options: ["Yes", "Sure", "Yes sure", "No", "No thanks"],
+        options: ["Yes", "Sure", "Yes sure", "No", "No thanks", "No I already booked a flight"],
         beforePrompt: () => {
             console.log("Before ask");
         },
@@ -279,7 +278,7 @@ function RemindMeTomorrow() {
         },
         onEndPrompt: () => {
             console.log("The prompt has been executed succesfully");
-            document.getElementById("answerTextbox").textContent = "'Yes' / 'Sure' / 'Yes sure' / 'No' / 'No thanks'";
+            document.getElementById("answerTextbox").textContent = "'Yes' / 'Sure' / 'Yes sure' / 'No' / 'No thanks' / 'No I already booked a flight'";
         },
         onMatch: (i, wildcard) => {
             var action;
@@ -296,6 +295,13 @@ function RemindMeTomorrow() {
                     artyom.fatality();
                 }
             }
+
+            if (i == 5) {
+                action = () => {
+                    DepartureReminder1();
+                }
+            }
+
             return action;
         }
     })
@@ -328,7 +334,7 @@ function BookingAirport() {
             console.log(airport);
             if (i == 0) {
                 action = () => {
-                    artyom.say("Great, your departure is from" + wildcard + ".");
+                    artyom.say("Great, your departure will be from" + wildcard + ".");
                     BookingPersonCount();
                 }
             }
@@ -339,7 +345,7 @@ function BookingAirport() {
 
 function BookingPersonCount() {
     artyom.newPrompt({
-        question: "Would you like to add another person to your flight?", //Alternative zu meinem Konzept
+        question: "Would you like to add another person to your flight?",
         smart: false,
         options: ["No", "No thanks", "Yes", "Sure", "Yes sure"],
         beforePrompt: () => {
@@ -367,7 +373,6 @@ function BookingPersonCount() {
 
             if (i == 2 || i == 3 || i == 4) {
                 action = () => {
-                    //artyom.say("Okay, I added" + wildcard + "persons.");
                     AddPersons();
                 }
             }
@@ -378,9 +383,9 @@ function BookingPersonCount() {
 
 function AddPersons() { 
     artyom.newPrompt({
-        question: "How many persons would you like to add?", //Alternative zu meinem Konzept
+        question: "How many persons would you like to add?", 
         smart: true,
-        options: ["* people", "*", "* persons", "I would like to add * persons"],
+        options: ["* people", "*", "* persons", "I would like to add * persons",],
         beforePrompt: () => {
             console.log("Before ask");
         },
@@ -393,7 +398,7 @@ function AddPersons() {
         },
         onMatch: (i, wildcard) => {
             var action;
-            personCount = parseInt(wildcard);
+            personCount = parseInt(wildcard) + 1;
             console.log(personCount);
 
             if (i == 0 || i == 1 || i == 2 || i == 3) {
@@ -498,7 +503,7 @@ function ChooseDepartureTime() {
     artyom.newPrompt({
         question: "For" + monthOfDeparture + dayOfDeparture + ", would you like to book the 11 AM, 2 PM, or 6 PM flight from" + airport + "to Barcelona?",
         smart: false,
-        options: ["11am", "2pm", "6pm", "could you please repeat that", "please repeat"],
+        options: ["11am", "I would like to take the one at 11am", "2pm", "I would like to take the one at 2pm", "6pm","I would like to take the one at 6pm", "could you please repeat that", "please repeat"],
         beforePrompt: () => {
             console.log("Before ask");
         },
@@ -507,7 +512,7 @@ function ChooseDepartureTime() {
         },
         onEndPrompt: () => {
             console.log("The prompt has been executed succesfully");
-            document.getElementById("answerTextbox").textContent = "'11am' / '2pm' / '6pm' / 'Could you please repeat that?' / 'Please repeat'";
+            document.getElementById("answerTextbox").textContent = "I would like to take the one at ...' / '11am' / '2pm' / '6pm' / 'Could you please repeat that?' / 'Please repeat'";
         },
         onMatch: (i) => {
             var action;
@@ -516,7 +521,7 @@ function ChooseDepartureTime() {
             if (i == 0) {
                 action = () => {
                     timeOfDeparture = "11am";
-                    artyom.say("Sure, this Economy Class flight at "+timeOfDeparture+" would cost 200 Euro.");
+                    artyom.say("Sure, this Economy Class flight would cost 200 Euro.");
                     FurtherInquiries();
                 }
             }
@@ -524,7 +529,7 @@ function ChooseDepartureTime() {
             if (i == 1) {
                 action = () => {
                     timeOfDeparture = "2pm";
-                    artyom.say("Sure, this Economy Class flight at "+timeOfDeparture+" would cost 200 Euro.");
+                    artyom.say("Sure, this Economy Class flight would cost 200 Euro.");
                     FurtherInquiries();
                 }
             }
@@ -532,7 +537,7 @@ function ChooseDepartureTime() {
             if (i == 2) {
                 action = () => {
                     timeOfDeparture = "6pm";
-                    artyom.say("Sure, this Economy Class flight at "+timeOfDeparture+" would cost 200 Euro.");
+                    artyom.say("Sure, this Economy Class flight would cost 200 Euro.");
                     FurtherInquiries();  
                 }
             }
@@ -633,7 +638,7 @@ function SummarizeOrder() {
         dynamicLuggageTextSegment = ".";
     }
 
-    artyom.say("Finally summarized, you have selected a Economy Class flight from "+airport+" for the "+dayOfDeparture + monthOfDeparture +" at "+timeOfDeparture+dynamicLuggageTextSegment);
+    artyom.say("Finally summarized, you have selected a Economy Class flight from "+airport+" for the "+dayOfDeparture + monthOfDeparture +" at "+timeOfDeparture+ " for " + personCount +" persons" +dynamicLuggageTextSegment);
     ConfirmOrder();
 }
 
@@ -665,15 +670,13 @@ function ConfirmOrder() {
 
             if (i == 2 || i == 3 || i == 4) {
                 action = () => {
-                ChoosePaymentMethod(); //Noch einbauen
-                    
+                    ChoosePaymentMethod();
                 }
             }
 
             if (i == 5 || i == 6) {
                 action = () => {
-                SummarizeOrder();
-                    
+                    SummarizeOrder();   
                 }
             }
             return action;
@@ -711,7 +714,7 @@ function ChoosePaymentMethod() {
             if (i == 2 || i == 3) {
                 action = () => {
                     paymentMethod = "PayPal";
-                    ChooseReminder(); //Noch einbauen     
+                    ChooseReminder();
                 }
             }
 
@@ -747,13 +750,15 @@ function ChooseReminder() {
 
             if (i == 0 || i == 1) {
                 action = () => {
-                    artyom.say("Alright, have a good journey!");               
+                    artyom.say("Alright, have a good journey!");  
+                    artyom.fatality();
                 }
             }
 
             if (i == 2 || i == 3 || i == 4) {
                 action = () => {
-                    artyom.say("Alright, I have set a reminder for "+ dayOfDeparture-1 + monthOfDeparture+ "2020. Have a good journey!"); //ANgepasst im Vergleich zum Konzept 
+                    artyom.say("Alright, I have set a reminder for "+ dayOfDeparture-1 + monthOfDeparture+ "2020. Have a good journey!");
+                    artyom.fatality();
                 }
             }
 
