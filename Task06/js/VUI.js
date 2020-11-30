@@ -14,7 +14,7 @@ window.addEventListener("load", function () {
     dayOfMeeting = 22;
     monthOfMeeting = "November";
     personCount = 1;
-    console.log("Initializing VUI");
+    console.log("Starting VUI");
 
     function startContinuousArtyom() {
         artyom.fatality();
@@ -791,7 +791,8 @@ function ChooseReminder() {
 
             if (i == 2 || i == 3 || i == 4) {
                 action = () => {
-                    artyom.say("Alright, I have set a reminder for "+ dayOfDeparture-1 + monthOfDeparture+ "2020. Have a good journey!");
+                    dayOfDeparture = dayOfDeparture - 1;
+                    artyom.say("Alright, I have set a reminder for "+ dayOfDeparture + monthOfDeparture+ "2020. Have a good journey!");
                     artyom.fatality();
                 }
             }
