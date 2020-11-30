@@ -45,7 +45,7 @@
 		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
 				v:shadowOffsetY="-8.50394"/>
 		<v:layer v:name="Verbinder" v:index="0"/>
-		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(803.083,-2384.22)">
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(749.194,-2382.85)">
 			<title>Aktion</title>
 			<desc>System / Voice Assistant</desc>
 			<v:userDefs>
@@ -56,7 +56,7 @@
 			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st1"/>
 			<text x="20.59" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>System / Voice <tspan
 						x="34.76" dy="1.2em" class="st3">Assistant</tspan></text>		</g>
-		<g id="shape2-5" v:mID="2" v:groupContext="shape" transform="translate(930.642,-2384.22)">
+		<g id="shape2-5" v:mID="2" v:groupContext="shape" transform="translate(876.754,-2382.85)">
 			<title>Aktion.2</title>
 			<desc>User Input</desc>
 			<v:userDefs>
@@ -948,16 +948,16 @@
 			<title>Dynamischer Verbinder.1126</title>
 			<path d="M0 2453.67 L-36 2453.67 L-36 2371.58 L-93.17 2371.58" class="st5"/>
 		</g>
-		<g id="shape1127-582" v:mID="1127" v:groupContext="shape" transform="translate(630.142,-2384.22)">
+		<g id="shape1127-582" v:mID="1127" v:groupContext="shape" transform="translate(576.254,-2382.85)">
 			<title>Aktion.1127</title>
-			<desc>Task05 | Markus Sasalovici</desc>
+			<desc>Task06 | Markus Sasalovici</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="79.3838" cy="2435.27" width="158.77" height="36.8038"/>
 			<rect x="0" y="2416.87" width="158.768" height="36.8038" rx="8.50394" ry="8.50394" class="st11"/>
-			<text x="13.88" y="2438.87" class="st12" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Task05 | Markus Sasalovici</text>		</g>
+			<text x="13.88" y="2438.87" class="st12" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Task06 | Markus Sasalovici</text>		</g>
 		<g id="shape1128-585" v:mID="1128" v:groupContext="shape" transform="translate(689.244,-1922.28)">
 			<title>Aktion.1128</title>
 			<desc>OK. From which airport do you take off?</desc>
@@ -1148,5 +1148,16 @@
 			<title>Dynamischer Verbinder.1154</title>
 			<path d="M7.09 2455.9 L7.09 2459.57" class="st5"/>
 		</g>
+		<g id="shape1155-714" v:mID="1155" v:groupContext="shape" transform="translate(1004.31,-2382.85)">
+			<title>Aktion.1155</title>
+			<desc>Changed in this version</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st7"/>
+			<text x="19.22" y="2431.67" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Changed in this <tspan
+						x="38.87" dy="1.2em" class="st3">version</tspan></text>		</g>
 	</g>
 </svg>
