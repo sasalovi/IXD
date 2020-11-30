@@ -13,6 +13,7 @@ var monthOfMeeting = new String();
 window.addEventListener("load", function () {
     dayOfMeeting = 22;
     monthOfMeeting = "November";
+    personCount = 1;
 
     function startContinuousArtyom() {
         artyom.fatality();
@@ -22,7 +23,9 @@ window.addEventListener("load", function () {
                 continuous: true,
                 listen: true,
                 interimResults: true,
-                debug: true
+                debug: true,
+                mode: "normal",
+                soundex: true
             }).then(function () {
                 console.log("Ready!");
             });
@@ -385,7 +388,7 @@ function AddPersons() {
     artyom.newPrompt({
         question: "How many persons would you like to add?", 
         smart: true,
-        options: ["* people", "*", "* persons", "I would like to add * persons",],
+        options: ["* people", "* persons", "* person", "I would like to add * persons",],
         beforePrompt: () => {
             console.log("Before ask");
         },
@@ -394,15 +397,27 @@ function AddPersons() {
         },
         onEndPrompt: () => {
             console.log("The prompt has been executed succesfully");
-            document.getElementById("answerTextbox").textContent = "'... people' / '...' / '... persons' / 'I would like to add ... persons'";
+            document.getElementById("answerTextbox").textContent = "'... people' / '...' / '... person' / 'I would like to add ... persons'";
         },
         onMatch: (i, wildcard) => {
-            var action;
-            personCount = parseInt(wildcard);
-            console.log(personCount);
+
 
             if (i == 0 || i == 1 || i == 2 || i == 3) {
                 action = () => {
+                    
+                    //This if condition is necessary, because artyom does not recognize the number "two" as an int / number, but as a string ("two")
+                    //All the other numbers work correctly
+                    if (wildcard == "two") { 
+                        personCount = personCount + 2;
+                        console.log("If: two");
+                    } else {
+                        var action;
+                        console.log(wildcard);
+                        personCount = personCount + parseInt(wildcard);
+                    }
+
+ 
+                    console.log(personCount);
                     artyom.say("Alright, I will continue to book a flight for "+ personCount+" persons.");
                     BookingDate();
                 }
@@ -453,6 +468,7 @@ function BookingDate() {
                         var matches = wildcard.match(regex);
                         dayOfDeparture = parseInt(matches);
                         console.log(dayOfDeparture);
+                        console.log(monthOfDeparture);
                         ChooseDepartureTime();
                     } else {
                         BookingDate(); //Repeat this segment because the date was missing in the input
@@ -632,7 +648,7 @@ function ChooseLuggage() {
 function SummarizeOrder() {
     var dynamicLuggageTextSegment;
 
-    if (luggage === true) {
+    if (additionalLuggage === true) {
          dynamicLuggageTextSegment = "with one additional bag of luggage.";
     } else {
         dynamicLuggageTextSegment = ".";
