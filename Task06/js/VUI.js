@@ -14,6 +14,7 @@ window.addEventListener("load", function () {
     dayOfMeeting = 22;
     monthOfMeeting = "November";
     personCount = 1;
+    console.log("Initializing VUI");
 
     function startContinuousArtyom() {
         artyom.fatality();
@@ -448,10 +449,19 @@ function BookingDate() {
         onMatch: (i, wildcard) => {
             var action;
             
-
+            //This if condition is necessary, because artyom does not recognize the number "one" as an int / number, but as a string ("one")
+            //All the other numbers work correctly
             if (i == 0 || i == 1) {
                 action = () => {
-                dayOfDeparture = dayOfMeeting - parseInt(wildcard);
+                console.log(wildcard);
+
+                if (wildcard == "one") {
+                    dayOfDeparture = dayOfMeeting - 1;
+                } else {
+                    dayOfDeparture = dayOfMeeting - parseInt(wildcard);
+                }
+
+                
                 monthOfDeparture = monthOfMeeting;
                 console.log(dayOfDeparture);
                     ChooseDepartureTime();
@@ -647,6 +657,8 @@ function ChooseLuggage() {
 
 function SummarizeOrder() {
     var dynamicLuggageTextSegment;
+    var personWord;
+
 
     if (additionalLuggage === true) {
          dynamicLuggageTextSegment = "with one additional bag of luggage.";
@@ -654,7 +666,13 @@ function SummarizeOrder() {
         dynamicLuggageTextSegment = ".";
     }
 
-    artyom.say("Finally summarized, you have selected a Economy Class flight from "+airport+" for the "+dayOfDeparture + monthOfDeparture +" at "+timeOfDeparture+ " for " + personCount +" persons" +dynamicLuggageTextSegment);
+    if (personCount > 1) {
+        personWord = "persons";
+    } else {
+        personWord = "person";
+    }
+
+    artyom.say("Finally summarized, you have selected a Economy Class flight from "+airport+" for the "+dayOfDeparture + monthOfDeparture +" at "+timeOfDeparture+ " for " + personCount + personWord + dynamicLuggageTextSegment);
     ConfirmOrder();
 }
 
